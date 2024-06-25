@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "xaga-KernelSU",
-      "repo": "https://github.com/Rohail33/Realking_xiaomi_xaga",
+      "repo": "https://github.com/jfrostbite/Realking_xiaomi_xaga.git",
       "branch": "stable",
       "device": "xaga"
     },
